@@ -1,1 +1,3 @@
 # strapi-auth-testing
+
+Test
